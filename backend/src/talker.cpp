@@ -1,3 +1,8 @@
+//file ex.
+//msg1 5
+//msg1 3
+//msg2 2
+//...
 #include "ros/ros.h"
 #include "std_msgs/String.h"
 #include "std_msgs/Int16.h"
